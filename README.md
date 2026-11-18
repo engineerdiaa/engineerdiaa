@@ -15,7 +15,7 @@ Some are fun gadgets, others work on serious problems. I take it one day at a ti
 | [Smart Traffic Lights](https://github.com/engineerdiaa/Smart-Traffic-Lights-System) | Traffic light controller in two versions: readable, and squeezed with bitwise tricks |
 | [NOOTE](https://github.com/engineerdiaa/NOOTE) | A desktop scratchpad, note logger and AI assistant in one (Python, PyQt6) |
 
-**Using any of my projects for content?** Videos, posts or tutorials: tag [@diaawastaken](https://www.instagram.com/diaawastaken/) and link the repo you used.
+**Using any of my projects for content?** Videos, posts or tutorials: tag [@diaawastaken](https://www.instagram.com/diaawastaken/).
 
 #### Find me
 
