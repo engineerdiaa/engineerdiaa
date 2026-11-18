@@ -8,12 +8,14 @@ Some are fun gadgets, others work on serious problems. I take it one day at a ti
 
 | Project | What it is |
 | --- | --- |
-| [Cyber ID Card](https://github.com/engineerdiaa/cyber-id-card) | An ID card that plays a video of you: ESP32-C3, 1.69" TFT and an OLED name tag |
+| [Cyber Badge](https://github.com/engineerdiaa/cyber-badge) | A badge that plays a video of you on an ESP32-C3. Shake it and the screen turns into liquid |
 | [Portable Heart LED](https://github.com/engineerdiaa/portable-heart-led) | An over-engineered LED heart keychain with 7 light modes and a rechargeable LiPo |
 | [Vision-Guided Laser Turret](https://github.com/engineerdiaa/vision-guided-laser-turret) | A self-trained YOLOv8 model aims a pan/tilt laser from an ESP32-CAM stream |
 | [Smart Room Visitor Counter](https://github.com/engineerdiaa/smart-room-visitor-counter) | ESP32 people counter that runs the lights, fan and door lock, with a Wi-Fi dashboard |
 | [Smart Traffic Lights](https://github.com/engineerdiaa/Smart-Traffic-Lights-System) | Traffic light controller in two versions: readable, and squeezed with bitwise tricks |
 | [NOOTE](https://github.com/engineerdiaa/NOOTE) | A desktop scratchpad, note logger and AI assistant in one (Python, PyQt6) |
+
+**Using any of my projects for content?** Videos, posts or tutorials: tag [@diaawastaken](https://www.instagram.com/diaawastaken/) and link the repo you used.
 
 #### Find me
 
